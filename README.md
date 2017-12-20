@@ -14,6 +14,6 @@ Steps to make the steering and trottle modules autonomous
 10)Run "rosrun rosserial_python serial_node.py /dev/ttyACM0" & "rosrun rosserial_python serial_node1.py /dev/ttyACM1"
 
 
-Now the car's steering and throttle module can be controlled uing joystick.
+Now the car's steering and throttle module can be controlled using joystick.
 
 
