@@ -1,4 +1,7 @@
 # JoystickCarControl
+
+We are using a KIA SOUL 2014 as our test car. More information can be found in our website(http://smartct.tamu.edu/index.html)
+
 Steps to make the steering and trottle modules autonomous
 
 1) Splice the blue and green wires in the steering and throttle module.
